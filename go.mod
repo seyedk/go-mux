@@ -1,4 +1,4 @@
-module github.com/seyed/go-mux
+module github.com/seyedk/go-mux
 
 go 1.15
 
